@@ -1,16 +1,9 @@
-# task1
+# My Portfolio App
 
-A new Flutter project.
+## About this project
 
-## Getting Started
+This is my very first flutter project.
+The project contains of a main page consisting of carousel and side drawer.
+The side drawer then contains of list of pages to be navigated on. In such there is an about me page where you can find buttons like home , what do I do etc.. which on tapped open a bottom drawer section.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### This is my very first project, I will continue with more functionalities and add them soon.
